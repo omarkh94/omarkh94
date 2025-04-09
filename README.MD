@@ -11,7 +11,7 @@
   Hi, I'm Omar Ibrahim <br/> Web Developer/Coder 💻,  Learner 🦸‍♂️ from Jordan 🇯🇴.
   <br />
   <br />
-  💻 Currently a Front end specialist.
+  💻 Full Stack Developer / MERN Stack.
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
