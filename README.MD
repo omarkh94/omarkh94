@@ -28,7 +28,12 @@
   <!-- MY Resume -->
  <a href="https://github.com/omarkh94/omarkh94/blob/main/Omar_Ibrahim.pdf"><img src="https://img.shields.io/badge/-CV-%23333?style=for-the-badge&logo=resend&logoColor=white" target="_blank"></a>
 </div>
-
+<div align="center"> 
+  <!-- Planster Code-->
+  <a href="mailto:omaribrahim.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- PetBarn Code -->
+  <a href="https://www.linkedin.com/in/omarkibrahim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 <hr />
 <!-- skills -->
 <h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
