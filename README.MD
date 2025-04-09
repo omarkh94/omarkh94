@@ -30,9 +30,9 @@
 </div>
 <div align="center"> 
  <!-- PetBarn Code -->
-  <a href="https://github.com/myCourseProjectm2025/petBarn"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=proton&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/myCourseProjectm2025/petBarn"><img src="https://img.shields.io/badge/-PetStoreJo-%230077B5?style=for-the-badge&logo=proton&logoColor=white" target="_blank"></a> 
   <!-- Planster Code-->
-  <a href="https://github.com/omarkh94/Planster"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=proton&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/omarkh94/Planster"><img src="https://img.shields.io/badge/-Planster-%23333?style=for-the-badge&logo=proton&logoColor=white" target="_blank"></a>
  
 </div>
 <hr />
