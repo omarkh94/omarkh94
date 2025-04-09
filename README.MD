@@ -26,7 +26,7 @@
 </div>
 <div align="center"> 
   <!-- MY Resume -->
- <a href="https://github.com/omarkh94/omarkh94/blob/main/Omar_Ibrahim.pdf"><img src="https://img.shields.io/badge/-ESUME-%DD0031?style=for-the-badge&logo=resend&logoColor=white" target="_blank"></a>
+ <a href="https://github.com/omarkh94/omarkh94/blob/main/Omar_Ibrahim.pdf"><img src="https://img.shields.io/badge/-Resume-%black?style=for-the-badge&logo=readdotcv&logoColor=white" target="_blank"></a>
 </div>
 <div align="center"> 
  <!-- PetBarn Code -->
